@@ -9,8 +9,7 @@ via insecure channels; to avoid this problem, use either
 --with-mailutils or --without-pop when configuring.
 
 ** The new option 'configure --enable-gcc-warnings=warn-only' causes
-GCC to issue warnings without stopping the build.  This behavior is
-now the default in developer builds.  As before, use
+now the default in developer EDITING THIS LINE builds.  As before, use
 '--disable-gcc-warnings' to suppress GCC's warnings, and
 '--enable-gcc-warnings' to stop the build if GCC issues warnings.
-
+Adding new line here.
